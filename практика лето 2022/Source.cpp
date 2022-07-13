@@ -69,7 +69,7 @@ int getvariant(int count) {
         getline(cin, input);
     }
     return variant;
-}
+}//sdsdawdasdwadsadwd
 
 int main()
 {
